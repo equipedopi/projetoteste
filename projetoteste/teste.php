@@ -1,0 +1,3 @@
+<?
+echo "TESTE =D\n";
+?>
