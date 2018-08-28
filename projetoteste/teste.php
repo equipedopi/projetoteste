@@ -1,3 +1,3 @@
 <?
-echo "TESTE =D\n";
+echo "TESTE =D \n";
 ?>
